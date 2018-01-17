@@ -3,9 +3,9 @@ def display_board( board)
   
 
 
-puts "board#{[0]}   |board#{[1]}   |board#{[2]}   "
+puts "#{[0]}|#{[1]}|#{[2]}   "
 puts "-----------"
-puts "   |board#{[4]}   |   "
+puts "   |#{[4]}   |   "
 puts "-----------"
 puts "   |   |   "
 
